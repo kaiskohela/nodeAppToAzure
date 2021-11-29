@@ -1,0 +1,20 @@
+ Id CommandLine
+  -- -----------
+   1 npm init
+   2 npm i express  --save
+   3 npm start
+   4 npm start
+   5 npm start
+   6 docker login appnodedocker.azurecr.io
+   7 docker login appnodedocker.azurecr.io
+   8 docker login appnodedocker.azurecr.io
+   9 cls
+  10 docker build
+  11 docker build -t appnodedocker.azurecr.io/node-express-api:latest .
+  12 docker images
+  13 docker push appnodedocker.azurecr.io/node-express-api:latest
+  14 cls
+  15 docker build -t appnodedocker.azurecr.io/node-express-api:latest .
+  16 docker push appnodedocker.azurecr.io/node-express-api:latest
+  17 docker ps
+  18 docker images
